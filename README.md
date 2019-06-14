@@ -11,7 +11,7 @@ In this lecture a 1st order nonlinear ODE has to be solved<br>
 But this IVP problem can not be solved with analytic/exact calculus<br>
 An excellent example for numerical computation with scipy<br>
 
-<b>Airy function<\b>
+Airy function<br>
 solve the 2nd order ODE<br>
 y'' - (ax+b)y = 0 <br>
 with substitution and the Airy functions<br>
