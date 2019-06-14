@@ -15,4 +15,8 @@ solve the 2nd order ODE<br>
 y'' - (ax+b)y = 0 <br>
 with substitution and the Airy functions<br>
 
+### Euler equation
+solve the 2nd order ODE<br>
+x^2y'' + axy' + by =0
+
 
