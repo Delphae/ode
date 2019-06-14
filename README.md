@@ -13,8 +13,8 @@ But this IVP problem can not be solved with analytic/exact calculus
 An excellent example for numerical computation with scipy
 
 Airy function
-solve
+solve the 2nd order ODE
 y'' - (ax+b)y = 0
-gives
-y = c_1Aip(u)+c_2*Bi(u)
+with substitution and the Airy functions
+
 
